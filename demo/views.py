@@ -4,3 +4,5 @@ def index(request):
     return HttpResponse('helle')
 def hello(request):
     return HttpResponse('woshihello')
+def test():
+    pass
